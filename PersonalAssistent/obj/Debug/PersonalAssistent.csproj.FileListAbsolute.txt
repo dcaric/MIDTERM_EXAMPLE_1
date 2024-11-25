@@ -1,0 +1,7 @@
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\PersonalAssistent\obj\Debug\PersonalAssistent.csproj.AssemblyReference.cache
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\PersonalAssistent\obj\Debug\PersonalAssistent.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\PersonalAssistent\bin\Debug\PersonalAssistent.exe.config
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\PersonalAssistent\bin\Debug\PersonalAssistent.exe
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\PersonalAssistent\bin\Debug\PersonalAssistent.pdb
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\PersonalAssistent\obj\Debug\PersonalAssistent.exe
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\PersonalAssistent\obj\Debug\PersonalAssistent.pdb

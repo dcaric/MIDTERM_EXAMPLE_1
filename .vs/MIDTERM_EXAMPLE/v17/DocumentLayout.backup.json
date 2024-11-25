@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\issigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\issigned.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\maid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\maid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8375D3E9-522E-416C-A25D-777DDCBC6543}|PersonalAssistent\\PersonalAssistent.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\personalassistent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8375D3E9-522E-416C-A25D-777DDCBC6543}|PersonalAssistent\\PersonalAssistent.csproj|solutionrelative:personalassistent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8375D3E9-522E-416C-A25D-777DDCBC6543}|PersonalAssistent\\PersonalAssistent.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\personalassistent\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8375D3E9-522E-416C-A25D-777DDCBC6543}|PersonalAssistent\\PersonalAssistent.csproj|solutionrelative:personalassistent\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8375D3E9-522E-416C-A25D-777DDCBC6543}|PersonalAssistent\\PersonalAssistent.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\personalassistent\\assistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8375D3E9-522E-416C-A25D-777DDCBC6543}|PersonalAssistent\\PersonalAssistent.csproj|solutionrelative:personalassistent\\assistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\extensionsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\extensionsformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\recepcionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\recepcionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\hoteltask\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5600C-BA99-4319-AC91-014B8F438A7A}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|c:\\users\\dario\\desktop\\oop\\paola_exercises\\midterm_example\\cleancode\\dean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF8F65B-9C4B-4C12-AAC8-1F2B9D7505E3}|CleanCode\\CleanCode.csproj|solutionrelative:cleancode\\dean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\PersonalAssistent\\Task.cs",
+              "RelativeDocumentMoniker": "PersonalAssistent\\Task.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\PersonalAssistent\\Task.cs",
+              "RelativeToolTip": "PersonalAssistent\\Task.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:40:37.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\PersonalAssistent\\Program.cs",
+              "RelativeDocumentMoniker": "PersonalAssistent\\Program.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\PersonalAssistent\\Program.cs",
+              "RelativeToolTip": "PersonalAssistent\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:33:10.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Teacher.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Teacher.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Teacher.cs",
+              "RelativeToolTip": "CleanCode\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:15:08.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maid.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Maid.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Maid.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Maid.cs",
+              "RelativeToolTip": "HotelTask\\Maid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:53:12.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Student.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Student.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Student.cs",
+              "RelativeToolTip": "CleanCode\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:02:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IsSigned.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\IsSigned.cs",
+              "RelativeDocumentMoniker": "CleanCode\\IsSigned.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\IsSigned.cs",
+              "RelativeToolTip": "CleanCode\\IsSigned.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:23:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assistent.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\PersonalAssistent\\Assistent.cs",
+              "RelativeDocumentMoniker": "PersonalAssistent\\Assistent.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\PersonalAssistent\\Assistent.cs",
+              "RelativeToolTip": "PersonalAssistent\\Assistent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:39:48.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Hotel.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Hotel.cs",
+              "RelativeToolTip": "HotelTask\\Hotel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:30:10.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Program.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Program.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Program.cs",
+              "RelativeToolTip": "CleanCode\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:30:56.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Person.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Person.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Person.cs",
+              "RelativeToolTip": "CleanCode\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:07:31.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExtensionsFormat.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\ExtensionsFormat.cs",
+              "RelativeDocumentMoniker": "CleanCode\\ExtensionsFormat.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\ExtensionsFormat.cs",
+              "RelativeToolTip": "CleanCode\\ExtensionsFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:25:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Documents.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Documents.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Documents.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Documents.cs",
+              "RelativeToolTip": "CleanCode\\Documents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:32:27.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Course.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Course.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Course.cs",
+              "RelativeToolTip": "CleanCode\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:16:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Program.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Program.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Program.cs",
+              "RelativeToolTip": "HotelTask\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:16:03.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Worker.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Worker.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Worker.cs",
+              "RelativeToolTip": "HotelTask\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:45:47.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Room.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Room.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Room.cs",
+              "RelativeToolTip": "HotelTask\\Room.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:47:09.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Recepcionist.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Recepcionist.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Recepcionist.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Recepcionist.cs",
+              "RelativeToolTip": "HotelTask\\Recepcionist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:55:00.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Director.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Director.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Director.cs",
+              "RelativeToolTip": "HotelTask\\Director.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:42:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Person.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Person.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Person.cs",
+              "RelativeToolTip": "HotelTask\\Person.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:31:31.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Extensions.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Extensions.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\HotelTask\\Extensions.cs",
+              "RelativeToolTip": "HotelTask\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:50:47.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dean.cs",
+              "DocumentMoniker": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Dean.cs",
+              "RelativeDocumentMoniker": "CleanCode\\Dean.cs",
+              "ToolTip": "C:\\Users\\dario\\Desktop\\OOP\\Paola_exercises\\MIDTERM_EXAMPLE\\CleanCode\\Dean.cs",
+              "RelativeToolTip": "CleanCode\\Dean.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:35:43.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

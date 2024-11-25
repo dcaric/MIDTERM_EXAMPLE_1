@@ -1,0 +1,7 @@
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\CleanCode\obj\Debug\CleanCode.csproj.AssemblyReference.cache
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\CleanCode\obj\Debug\CleanCode.pdb

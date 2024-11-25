@@ -1,0 +1,7 @@
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\HotelTask\bin\Debug\HotelTask.exe.config
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\HotelTask\bin\Debug\HotelTask.exe
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\HotelTask\bin\Debug\HotelTask.pdb
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\HotelTask\obj\Debug\HotelTask.csproj.AssemblyReference.cache
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\HotelTask\obj\Debug\HotelTask.csproj.CoreCompileInputs.cache
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\HotelTask\obj\Debug\HotelTask.exe
+C:\Users\dario\Desktop\OOP\Paola_exercises\MIDTERM_EXAMPLE\HotelTask\obj\Debug\HotelTask.pdb
